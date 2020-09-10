@@ -23,8 +23,8 @@ serve: _includes/pubs.html
 clean:
 	$(RM) -r _site _includes/pubs.html
 
-DEPLOY_HOST ?= yourwebpage.com
-DEPLOY_PATH ?= www/
+DEPLOY_HOST ?= 166.104.169.90
+DEPLOY_PATH ?= /var/www/html/wordpress
 RSYNC := rsync --compress --recursive --checksum --itemize-changes --delete -e ssh
 
 deploy: clean build
