@@ -11,12 +11,12 @@ prof-c:
     display_name: "Prof C"
     role: faculty
 
-profx:
-    display_name: "Professor Yoo"
+prof:
+    display_name: "Jihyung Yoo"
     webpage: "http://en.wikipedia.org/wiki/Professor_X"
     github: profx
     role: faculty
-    image: /img/people/prof-x.png
+    image: /img/people/yoo.png
     bio: Professor
 
 scott:
