@@ -20,14 +20,14 @@ profx:
     bio: Professor
 
 scott:
-    display_name: "Scott Summers"
+    display_name: "Test user 1"
     webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
     role: staff
     image: /img/people/scott.png
     bio: aka Cyclops
 
 wolverine:
-    display_name: "Wolverine"
+    display_name: "Test user 2"
     webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
     github: wolverine
     role: postdoc
