@@ -1,16 +1,4 @@
 
-prof-a:
-    display_name: "Prof A"
-    role: faculty
-
-prof-b:
-    display_name: "Prof B"
-    role: faculty
-
-prof-c:
-    display_name: "Prof C"
-    role: faculty
-
 prof:
     display_name: "Jihyung Yoo"
     webpage: "http://en.wikipedia.org/wiki/Professor_X"
@@ -22,7 +10,7 @@ prof:
 scott:
     display_name: "Test user 1"
     webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
-    role: staff
+    role: postdoc
     image: /img/people/scott.png
     bio: aka Cyclops
 
