@@ -10,38 +10,38 @@ prof:
 grad-001:
     display_name: "Jaeehoon Sun (선재훈)"
     role: grad
-    image: /img/people/student_001.png
+    image: /img/people/student_001.jpg
     bio: PhD candidate
 
 grad-003:
     display_name: "Youngjin Ahn (안영진)"
     role: grad
-    image: /img/people/student_003.png
+    image: /img/people/student_003.jpg
     bio: Masters student
 
 grad-004:
     display_name: "Yun Hee Chang (장윤희)"
     role: grad
-    image: /img/people/student_004.png
+    image: /img/people/student_004.jpg
     bio: Masters student
 
 grad-005:
     display_name: "Seong O Yang (안영진)"
     role: grad
-    image: /img/people/student_005.png
+    image: /img/people/student_005.jpg
     bio: Masters student
 
 grad-006:
     display_name: "Won Jin Ko (안영진)"
     role: grad
-    image: /img/people/student_006.png
+    image: /img/people/student_006.jpg
     bio: Masters student
 
 
 grad-007:
     display_name: "Jeongkwan Han (한정관)"
     role: grad
-    image: /img/people/student_007.png
+    image: /img/people/student_007.jpg
     bio: Masters student
 
 grad-008:
