@@ -1,66 +1,53 @@
 
 prof:
-    display_name: "Jihyung Yoo"
-    webpage: "http://en.wikipedia.org/wiki/Professor_X"
+    display_name: "Jihyung Yoo (유지형)"
+    webpage: "https://ae.hanyang.ac.kr/yoo-2"
     github: profx
     role: faculty
     image: /img/people/yoo.png
     bio: Professor
 
-scott:
-    display_name: "Test user 1"
-    webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
-    role: postdoc
-    image: /img/people/scott.png
-    bio: aka Cyclops
-
-wolverine:
-    display_name: "Test user 2"
-    webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
-    github: wolverine
-    role: postdoc
-
-storm:
-    display_name: "Storm"
-    webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
+grad-001:
+    display_name: "Jaeehoon Sun (선재훈)"
     role: grad
-    image: /img/people/storm.png
+    image: /img/people/student_001.png
+    bio: PhD candidate
 
-grad-a:
-    display_name: "Grad A"
+grad-003:
+    display_name: "Youngjin Ahn (안영진)"
     role: grad
+    image: /img/people/student_003.png
+    bio: Masters student
 
-grad-b:
-    display_name: "Graduate Student B With Long Name"
+grad-004:
+    display_name: "Yun Hee Chang (장윤희)"
     role: grad
+    image: /img/people/student_004.png
+    bio: Masters student
 
-grad-c:
-    display_name: "Grad C"
+grad-005:
+    display_name: "Seong O Yang (안영진)"
     role: grad
+    image: /img/people/student_005.png
+    bio: Masters student
 
-grad-d:
-    display_name: "Grad D"
+grad-006:
+    display_name: "Won Jin Ko (안영진)"
     role: grad
+    image: /img/people/student_006.png
+    bio: Masters student
 
-grad-e:
-    display_name: "Grad E"
-    role: grad
 
-grad-f:
-    display_name: "Grad F"
+grad-007:
+    display_name: "Jeongkwan Han (한정관)"
     role: grad
+    image: /img/people/student_007.png
+    bio: Masters student
 
-grad-g:
-    display_name: "Grad G"
+grad-008:
+    display_name: "Sungyeon Ahn (안성연)"
     role: grad
-
-grad-h:
-    display_name: "Grad H"
-    role: grad
-
-grad-i:
-    display_name: "Grad I"
-    role: grad
+    bio: Masters student
 
 alum-a:
     display_name: "Alum A"
