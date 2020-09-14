@@ -10,7 +10,7 @@ people:
   - student_001
 
 layout: project
-image: /img/qepas.png
+image: /img/qepas.jpg
 last-updated: 2020-04-11
 ---
 

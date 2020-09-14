@@ -10,7 +10,7 @@ people:
   - prof
 
 layout: project
-image: /img/sclas.png
+image: /img/sclas.jpg
 last-updated: 2017-09-01
 status: inactive
 ---
