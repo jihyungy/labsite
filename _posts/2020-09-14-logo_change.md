@@ -1,7 +1,7 @@
 ---
 layout: post
 shortnews: true
-icon: newspaper-o
+icon: bullhorn
 image: /img/logo_short.png
 image_style: "max-height: 100px;"
 ---
