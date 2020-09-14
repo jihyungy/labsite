@@ -6,4 +6,7 @@ image: /img/logo_short.png
 image_style: "max-height: 100px;"
 ---
 
-We have a new lab name and logo
+Hopefully, the new name sticks
+
+Feedback is always welcome.
+
