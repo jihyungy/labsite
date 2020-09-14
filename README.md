@@ -123,3 +123,26 @@ To upload a new version of the site via rsync over ssh, type `make deploy`. A we
 
 [Jekyll]: http://jekyllrb.com/
 [bibble]: https://github.com/sampsyo/bibble/
+
+
+Additional Details
+-----------------------
+
+Removed (Researchers, Staff, Collaborators, Past Undergraduate Students), but here are the keys should you choose to bring them back
+roles:
+  - key: faculty
+    name: Faculty
+  - key: staff
+    name: Staff
+  - key: postdoc
+    name: Researchers
+  - key: grad
+    name: Graduate Students
+  - key: ugrad
+    name: Undergraduate Students
+  - key: ugrad-alum
+    name: Past Undergraduate Students
+  - key: collab
+    name: Collaborators
+  - key: alum
+    name: Alumni

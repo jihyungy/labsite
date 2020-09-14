@@ -26,13 +26,13 @@ grad-004:
     bio: Masters student
 
 grad-005:
-    display_name: "Seong O Yang (안영진)"
+    display_name: "Seong O Yang (양성오)"
     role: grad
     image: /img/people/student_005.jpg
     bio: Masters student
 
 grad-006:
-    display_name: "Won Jin Ko (안영진)"
+    display_name: "Won Jin Ko (고원진)"
     role: grad
     image: /img/people/student_006.jpg
     bio: Masters student
@@ -50,87 +50,13 @@ grad-008:
     bio: Masters student
 
 alum-a:
-    display_name: "Alum A"
-    role: alum
-    bio: "Ph.D., 2013. Now at Microsoft Research."
-
-alum-b:
-    display_name: "Alum B With Way Longer Name"
+    display_name: "No alumni yet"
     role: alum
 
-alum-c:
-    display_name: "Alum C"
-    role: alum
-    webpage: "https://www.google.com"
-
-alum-d:
-    display_name: "Alum D"
-    role: alum
-
-alum-e:
-    display_name: "Alum E"
-    role: alum
-
-alum-f:
-    display_name: "Alum F"
-    role: alum
-
-alum-g:
-    display_name: "Alum G"
-    role: alum
-
-alum-h:
-    display_name: "Alum H"
-    role: alum
-
-alum-i:
-    display_name: "Alum I"
-    role: alum
-
-collab-a:
-    display_name: "Collaborator A"
-    role: collab
-
-collab-b:
-    display_name: "Collaborator B With Long Name"
-    role: collab
-
-collab-c:
-    display_name: "Collaborator C"
-    role: collab
-
-collab-d:
-    display_name: "Collaborator D"
-    role: collab
-
-collab-e:
-    display_name: "Collaborator E"
-    role: collab
-
-ugrad-a:
-    display_name: "Ugrad A"
+ugrad-001:
+    display_name: "Hyunbin Noh (노현빈)"
     role: ugrad
 
-ugrad-b:
-    display_name: "Ugrad Student B With Long Name"
+ugrad-002:
+    display_name: "Yunseok Han (한윤석)"
     role: ugrad
-
-ugrad-c:
-    display_name: "Ugrad C"
-    role: ugrad
-
-ugrad-d:
-    display_name: "Ugrad D"
-    role: ugrad
-
-ugrad-e:
-    display_name: "Ugrad E"
-    role: ugrad
-
-ugrad-alum-a:
-    display_name: "Past Ugrad A"
-    role: ugrad-alum
-
-ugrad-alum-b:
-    display_name: "Past Ugrad Student B With Long Name"
-    role: ugrad-alum
