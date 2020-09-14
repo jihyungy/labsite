@@ -1,5 +1,6 @@
 ---
 title: SCLAS
+status: inactive
 
 notitle: true
 
@@ -12,7 +13,7 @@ people:
 layout: project
 image: /img/sclas.jpg
 last-updated: 2017-09-01
-status: inactive
+
 ---
 
 Low-temperature fuel pyrolysis diagnostics using SCLAS

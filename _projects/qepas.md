@@ -7,7 +7,7 @@ description: |
   Mesospheric water concentration measurements using QEPAS
 
 people:
-  - student_001
+  - grad-001
 
 layout: project
 image: /img/qepas.jpg
@@ -16,7 +16,7 @@ last-updated: 2020-04-11
 
 Mesospheric water concentration measurements using QEPAS
 
-## header
+#### Description
 
 This study is focused on developing optical sensing technique for probing and understanding water concentration in the mesoshere. This portion of the Earth’s atmosphere is believed to have a significant impact on global warming but its effects are not well-defined. Furthermore, precise water concentration measurement high above the Earth surface is not trivial.
 
