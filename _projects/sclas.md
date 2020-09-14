@@ -1,19 +1,24 @@
 ---
 title: SCLAS
-subtitle: Low-temperature fuel pyrolysis diagnostics using SCLAS
-status: inactive
+
+notitle: true
 
 description: |
-  
-  Low temperature fuel kinetics is critical to sustainable automotive propulsion systems development. However, existing models do not reliably reproduce realworld outcomes partially due to the limited experimental results.
-
-  This sensor is specifically designed to probe specific pyrolysis products that may form during low-temperature fuel pyrolysis. The sensor is based on supercontinuum light source, a broadband laser source capable of ouputing across the entire visible and the near-IR spectrum. This source was mated with a fast spectru-resolving diagnostic technique tor probe absorption spectra of key species present during fuel pyrolysis. The sensor is currently under active development and characterization.
+  Low-temperature fuel pyrolysis diagnostics using SCLAS
 
 people:
-  - storm
-  - grad-e
-  - collab-a
+  - prof
 
 layout: project
-no-link: true
+image: /img/sclas.png
+last-updated: 2017-09-01
+status: inactive
 ---
+
+Low-temperature fuel pyrolysis diagnostics using SCLAS
+
+## header
+
+This study is focused on developing optical sensing technique for probing and understanding water concentration in the mesoshere. This portion of the Earth’s atmosphere is believed to have a significant impact on global warming but its effects are not well-defined. Furthermore, precise water concentration measurement high above the Earth surface is not trivial.
+
+An optical diagnostic technique known as Quartz-Enhanced Photoacoustic Spectroscopy (QEPAS) is applied for ppm-level water concentration measurements between 10 to 50km above sea level. QEPAS is a very sensitive optical diagnostics technique that are used in various applications. This technique would provide an affordable and compact sensing platform that can be extended to studying other gases and their impacts of climate change.
