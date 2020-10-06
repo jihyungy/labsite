@@ -7,9 +7,9 @@ description: |
   Minute gas sensor for EV battery management using Metal Oxide Semiconductor chemistry
 
 people:
-  - prof
+  - grad-008
 
 layout: project
-last-updated: 2020-09-10
+last-updated: 2020-10-06
 ---
 
