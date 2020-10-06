@@ -8,6 +8,7 @@ people:
   - grad-004
 
 layout: project
-last-updated: 2020-09-03
+image: /img/blackbody.jpg
+last-updated: 2020-10-06
 ---
 
