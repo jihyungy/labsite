@@ -52,11 +52,3 @@ grad-008:
 alum-a:
     display_name: "No alumni yet"
     role: alum
-
-ugrad-001:
-    display_name: "Hyunbin Noh (노현빈)"
-    role: ugrad
-
-ugrad-002:
-    display_name: "Yunseok Han (한윤석)"
-    role: ugrad
